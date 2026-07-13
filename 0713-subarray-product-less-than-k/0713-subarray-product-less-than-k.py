@@ -5,16 +5,17 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        if k<=1:
+            return 0
+
         count = 0
+        prod = 1
+        left = 0
         for right in range(len(nums)):
-            prod = 1
-            left = right
-            while(left<len(nums)):
-                prod *= nums[left]
-                if prod >= k:
-                    break
-                else: 
-                    count+=1
-                    left+=1
+            prod *= nums[right]
+            while prod >= k:
+                prod//=nums[left]
+                left+=1
+            count += right-left+1
         return count
                 
