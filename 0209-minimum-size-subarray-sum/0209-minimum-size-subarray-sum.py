@@ -5,17 +5,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        l = 0
-        s=0
-        m = float('inf')
-        for r in range(len(nums)):            
-            s+=nums[r]
+        left = 0
+        sums=0
+        min_count = float('inf')
+        for right in range(len(nums)):            
+            sums+=nums[right]
 
-            while s>=target:
-                m=min(m,r-l+1)
-                s-=nums[l]
-                l+=1
+            while sums>=target:
+                min_count=min(min_count,right-left+1)
+                sums-=nums[left]
+                left+=1
                 
 
-        return 0 if m == float('inf') else m
+        return 0 if min_count == float('inf') else min_count
                 
