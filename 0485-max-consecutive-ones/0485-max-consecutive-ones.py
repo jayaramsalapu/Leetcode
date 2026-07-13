@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count = max_count = 0
+        c = m = 0
         for i in nums:
             if i == 1:
-                count+=1
-                if count> max_count:
-                    max_count = count
+                c+=1
+                if c > m:
+                    m = c
             else:
-                count = 0
-        return max_count
+                c = 0
+        return m
