@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/jayaramsalapu/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -36,5 +37,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
