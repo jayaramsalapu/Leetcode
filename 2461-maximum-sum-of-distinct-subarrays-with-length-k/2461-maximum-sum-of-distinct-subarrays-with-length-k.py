@@ -22,7 +22,7 @@ class Solution(object):
                 left+=1
 
 
-            if len(freq) == k and i-left+1 == k:
+            if len(freq) == k :
                 max_sum = max(max_sum,total)
 
         return max_sum
