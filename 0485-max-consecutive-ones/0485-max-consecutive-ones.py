@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count , max_count = 0,0
+        count = max_count = 0
         for i in nums:
             if i == 1:
                 count+=1
