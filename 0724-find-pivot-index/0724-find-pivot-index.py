@@ -4,22 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        prefix = [0]*len(nums)
-        prefix[0] = nums[0]
-        for i in range(1,len(nums)):
-            prefix[i] =prefix[i-1]+nums[i]
+        left = 0
+        total = sum(nums)
+        for i in range(len(nums)):
+          
 
-        total = prefix[-1]
-        for i in range(len(prefix)):
-
-            if i == 0:
-                left = 0
-            else:
-                left = prefix[i-1]
-
-            right = total - prefix[i]
-
+            right = total - ( left + nums[i])
             if left == right:
                 return i
-        
+            left+=nums[i]
+
+            
         return -1
