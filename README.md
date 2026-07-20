@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jayaramsalapu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/jayaramsalapu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/jayaramsalapu/Leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/jayaramsalapu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jayaramsalapu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/jayaramsalapu/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
