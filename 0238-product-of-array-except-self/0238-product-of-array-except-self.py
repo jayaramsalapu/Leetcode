@@ -1,19 +1,29 @@
+import math
+
 class Solution(object):
     def productExceptSelf(self, nums):
-
-        n = len(nums)
-
-        left = [1] * n
-        right = [1] * n
-        res = [1] * n
-
-        for i in range(1, n):
-            left[i] = left[i-1] * nums[i-1]
-
-        for i in range(n-2, -1, -1):
-            right[i] = right[i+1] * nums[i+1]
-
-        for i in range(n):
-            res[i] = left[i] * right[i]
-
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        left = []
+        right = [1]*len(nums)
+        res = []
+        left_prod = 1
+        right_prod =1
+        for i in range(len(nums)):
+            left_prod*=nums[i]
+            left.append(left_prod)
+        for i in range(len(nums)-1,-1,-1):
+            right_prod*=nums[i]
+            right[i]=right_prod
+        for i in range(len(nums)):
+            if i==0:
+                ans = right[i+1]
+            elif i==len(nums)-1:
+                ans = left[i-1]
+            else:
+                ans = left[i-1]*right[i+1]
+            res.append(ans)
         return res
+        
