@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayaramsalapu/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jayaramsalapu/Leetcode/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
