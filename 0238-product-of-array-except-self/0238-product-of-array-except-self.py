@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: List[int]
         """
         left = []
-        right = []
+        right = [1]*len(nums)
         res = []
         left_prod = 1
         right_prod =1
@@ -16,8 +16,7 @@ class Solution(object):
             left.append(left_prod)
         for i in range(len(nums)-1,-1,-1):
             right_prod*=nums[i]
-            right.append(right_prod) 
-        right.reverse()
+            right[i]=right_prod
         for i in range(len(nums)):
             if i==0:
                 ans = right[i+1]
