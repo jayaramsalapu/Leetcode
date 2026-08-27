@@ -56,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jayaramsalapu/Leetcode/tree/master/0409-longest-palindrome) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jayaramsalapu/Leetcode/tree/master/0392-is-subsequence) |
@@ -116,6 +118,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
