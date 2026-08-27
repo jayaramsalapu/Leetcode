@@ -60,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/jayaramsalapu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jayaramsalapu/Leetcode/tree/master/0290-word-pattern) |
@@ -100,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jayaramsalapu/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jayaramsalapu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
