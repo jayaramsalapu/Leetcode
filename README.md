@@ -106,6 +106,7 @@
 | [0007-reverse-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jayaramsalapu/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/jayaramsalapu/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jayaramsalapu/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jayaramsalapu/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
