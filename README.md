@@ -25,6 +25,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jayaramsalapu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jayaramsalapu/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -137,6 +139,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayaramsalapu/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Manacher
 |  |
@@ -154,4 +157,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
