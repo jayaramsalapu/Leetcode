@@ -18,6 +18,7 @@
 | [0904-fruit-into-baskets](https://github.com/jayaramsalapu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +88,9 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
