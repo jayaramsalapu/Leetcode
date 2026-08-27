@@ -57,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/jayaramsalapu/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0290-word-pattern](https://github.com/jayaramsalapu/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
