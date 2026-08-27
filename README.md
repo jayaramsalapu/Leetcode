@@ -27,6 +27,7 @@
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/jayaramsalapu/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/jayaramsalapu/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/jayaramsalapu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/jayaramsalapu/Leetcode/tree/master/3340-check-balanced-string) |
