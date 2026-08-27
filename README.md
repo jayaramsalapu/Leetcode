@@ -19,6 +19,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/jayaramsalapu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2942-find-words-containing-character](https://github.com/jayaramsalapu/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2942-find-words-containing-character](https://github.com/jayaramsalapu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/jayaramsalapu/Leetcode/tree/master/3340-check-balanced-string) |
 ## Counting
 |  |
