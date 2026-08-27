@@ -89,6 +89,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3340-check-balanced-string](https://github.com/jayaramsalapu/Leetcode/tree/master/3340-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
