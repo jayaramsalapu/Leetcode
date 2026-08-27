@@ -6,8 +6,8 @@ class Solution(object):
         """
         even = 0
         odd = 0
-        length = len(num)
-        for i in range(length):
+
+        for i in range(len(num)):
             if i % 2 != 0:
                 odd+=int(num[i])
             else:
