@@ -16,9 +16,7 @@ class Solution(object):
                 if t[i] in used:
                     return False
 
-
-
-            mapping[s[i]] = t[i]
-            used.add(t[i])
+                mapping[s[i]] = t[i]
+                used.add(t[i])
 
         return True
