@@ -28,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jayaramsalapu/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/jayaramsalapu/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayaramsalapu/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
