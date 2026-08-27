@@ -8,7 +8,7 @@ class Solution(object):
         odd = 0
 
         for i in range(len(num)):
-            if i % 2 != 0:
+            if i&1:
                 odd+=int(num[i])
             else:
                 even+=int(num[i])
