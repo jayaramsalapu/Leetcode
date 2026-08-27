@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/jayaramsalapu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jayaramsalapu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
