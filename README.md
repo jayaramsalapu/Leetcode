@@ -54,6 +54,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaramsalapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/jayaramsalapu/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jayaramsalapu/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -95,12 +96,14 @@
 | [0917-reverse-only-letters](https://github.com/jayaramsalapu/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayaramsalapu/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/jayaramsalapu/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/jayaramsalapu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/jayaramsalapu/Leetcode/tree/master/3340-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jayaramsalapu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## String Matching
 |  |
