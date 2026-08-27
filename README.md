@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jayaramsalapu/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
