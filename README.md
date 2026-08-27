@@ -28,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jayaramsalapu/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/jayaramsalapu/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayaramsalapu/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/jayaramsalapu/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -37,6 +38,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/jayaramsalapu/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaramsalapu/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/jayaramsalapu/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/jayaramsalapu/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/jayaramsalapu/Leetcode/tree/master/0917-reverse-only-letters) |
