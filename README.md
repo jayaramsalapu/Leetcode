@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayaramsalapu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/jayaramsalapu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaramsalapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jayaramsalapu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -70,6 +72,7 @@
 | [0205-isomorphic-strings](https://github.com/jayaramsalapu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jayaramsalapu/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
@@ -118,6 +121,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -148,6 +152,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -198,4 +203,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaramsalapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
