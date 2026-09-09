@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/jayaramsalapu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayaramsalapu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jayaramsalapu/Leetcode/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jayaramsalapu/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jayaramsalapu/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jayaramsalapu/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
@@ -63,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayaramsalapu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jayaramsalapu/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jayaramsalapu/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jayaramsalapu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jayaramsalapu/Leetcode/tree/master/0242-valid-anagram) |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayaramsalapu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/jayaramsalapu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayaramsalapu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/jayaramsalapu/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -189,4 +194,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jayaramsalapu/Leetcode/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jayaramsalapu/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
